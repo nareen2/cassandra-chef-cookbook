@@ -1,5 +1,5 @@
 4.4.1
-## Attribute to false in config.rb
+## Attribute hinted_handoff_enabled to false in config.rb
 ## Changes Between 4.3.0 and 4.4.0 (unreleased)
 
 ### `cassandra-env.sh` and JVM Options Synced with Cassandra 3
